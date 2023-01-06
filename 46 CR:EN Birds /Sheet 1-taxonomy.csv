@@ -1,0 +1,47 @@
+internalTaxonId,scientificName,kingdomName,phylumName,className,orderName,familyName,genusName,speciesName,infraType,infraName,infraAuthority,subpopulationName,authority,taxonomicNotes
+,,,,,,,,,,,,,"(Linnaeus, 1758)",<em>A. cygnoid</em>&#160;(del Hoyo and Collar 2014) was previously listed as&#160;<em>A. cygnoides</em>.
+22689809,Antrostomus noctitherus,ANIMALIA,CHORDATA,AVES,CAPRIMULGIFORMES,CAPRIMULGIDAE,Antrostomus,noctitherus,,,,,"(Wetmore, 1919)",<em>Antrostomus   noctitherus</em> (del Hoyo and Collar 2014) was previously placed in the genus   <em>Caprimulgus</em>.
+22693225,Tringa guttifer,ANIMALIA,CHORDATA,AVES,CHARADRIIFORMES,SCOLOPACIDAE,Tringa,guttifer,,,,,"(Nordmann, 1835)",
+22698691,Pitta megarhyncha,ANIMALIA,CHORDATA,AVES,PASSERIFORMES,PITTIDAE,Pitta,megarhyncha,,,,,"Schlegel, 1863",
+22695185,Necrosyrtes monachus,ANIMALIA,CHORDATA,AVES,ACCIPITRIFORMES,ACCIPITRIDAE,Necrosyrtes,monachus,,,,,"(Temminck, 1823)",
+22704154,Notiomystis cincta,ANIMALIA,CHORDATA,AVES,PASSERIFORMES,NOTIOMYSTIDAE,Notiomystis,cincta,,,,,"(Du Bus, 1839)",
+45353580,Apteryx mantelli,ANIMALIA,CHORDATA,AVES,STRUTHIONIFORMES,APTERYGIDAE,Apteryx,mantelli,,,,,"Bartlett, 1851","<em>Apteryx</em><em><em> australis</em></em><em><em><em></em>, <em>A.</em> </em> mantelli</em><em> </em>and <em>A. rowi </em>(del Hoyo and Collar 2014) were previously treated as <em>A.</em><em><em> australis</em></em><em><em><em></em></em></em> and <em>A. mantelli</em> (incorporating <em>rowi</em>)  following Baker <em>et al.</em> (1995); prior to that all three taxa were lumped as <em>A. australis</em> following Sibley and Monroe (1990, 1993)."
+22690985,Gallicolumba platenae,ANIMALIA,CHORDATA,AVES,COLUMBIFORMES,COLUMBIDAE,Gallicolumba,platenae,,,,,"(Salvadori, 1891)",
+22680380,Aythya innotata,ANIMALIA,CHORDATA,AVES,ANSERIFORMES,ANATIDAE,Aythya,innotata,,,,,"(Salvadori, 1894)",
+22691030,Alopecoenas erythropterus,ANIMALIA,CHORDATA,AVES,COLUMBIFORMES,COLUMBIDAE,Alopecoenas,erythropterus,,,,,"(Gmelin, 1789)",<em>Alopecoenas erythropterus</em>&#160;(del Hoyo and Collar 2014) was previously placed in the genus&#160;<em>Gallicolumba</em>&#160;as&#160;<em>G. erythroptera</em>.
+103771879,Artisornis moreaui,ANIMALIA,CHORDATA,AVES,PASSERIFORMES,CISTICOLIDAE,Artisornis,moreaui,,,,,"(W.L. Sclater, 1931)","<p><em>Artisornis moreaui </em>and<em> A. sousae</em> (del Hoyo and Collar 2016) were previously lumped as <em>A. moreaui</em> following Dowsett &amp; Forbes-Watson (1993) and Sibley &amp; Monroe (1990, 1993).</p>"
+22696012,Pithecophaga jefferyi,ANIMALIA,CHORDATA,AVES,ACCIPITRIFORMES,ACCIPITRIDAE,Pithecophaga,jefferyi,,,,,"Ogilvie-Grant, 1897",
+22685245,Strigops habroptila,ANIMALIA,CHORDATA,AVES,PSITTACIFORMES,STRIGOPIDAE,Strigops,habroptila,,,,,"Gray, 1845",
+22692015,Houbaropsis bengalensis,ANIMALIA,CHORDATA,AVES,OTIDIFORMES,OTIDIDAE,Houbaropsis,bengalensis,,,,,"(Gmelin, 1789)",
+22678869,Pternistis ochropectus,ANIMALIA,CHORDATA,AVES,GALLIFORMES,PHASIANIDAE,Pternistis,ochropectus,,,,,"(Dorst &amp; Jouanin, 1952)",<em>Pternistis ochropectus</em>&#160;(del Hoyo and Collar 2014)&#160;was previously placed in the genus <em>Francolinus</em>.
+22722293,Nemosia rourei,ANIMALIA,CHORDATA,AVES,PASSERIFORMES,THRAUPIDAE,Nemosia,rourei,,,,,"Cabanis, 1870",
+22728410,Antilophia bokermanni,ANIMALIA,CHORDATA,AVES,PASSERIFORMES,PIPRIDAE,Antilophia,bokermanni,,,,,"Coelho & Silva, 1998",
+22694585,Thalasseus bernsteini,ANIMALIA,CHORDATA,AVES,CHARADRIIFORMES,LARIDAE,Thalasseus,bernsteini,,,,,"(Schlegel, 1863)",<em>Thalasseus bernsteini</em> (del Hoyo and Collar 2014) was previously placed in the genus <em>Sterna</em>.    <p></p>
+22731646,Celeus obrieni,ANIMALIA,CHORDATA,AVES,PICIFORMES,PICIDAE,Celeus,obrieni,,,,,"Short, 1973",
+22685539,Ara ararauna,ANIMALIA,CHORDATA,AVES,PSITTACIFORMES,PSITTACIDAE,Ara,ararauna,,,,,"(Linnaeus, 1758)",
+22680038,Tachyeres leucocephalus,ANIMALIA,CHORDATA,AVES,ANSERIFORMES,ANATIDAE,Tachyeres,leucocephalus,,,,,"Humphrey & Thompson, 1981",
+22680427,Clangula hyemalis,ANIMALIA,CHORDATA,AVES,ANSERIFORMES,ANATIDAE,Clangula,hyemalis,,,,,"(Linnaeus, 1758)",
+22698305,Diomedea exulans,ANIMALIA,CHORDATA,AVES,PROCELLARIIFORMES,DIOMEDEIDAE,Diomedea,exulans,,,,,"Linnaeus, 1758",
+22697531,Pseudibis davisoni,ANIMALIA,CHORDATA,AVES,PELECANIFORMES,THRESKIORNITHIDAE,Pseudibis,davisoni,,,,,"(Hume, 1875)",
+22697021,Ardea insignis,ANIMALIA,CHORDATA,AVES,PELECANIFORMES,ARDEIDAE,Ardea,insignis,,,,,"Hume, 1878",
+22680482,Mergus octosetaceus,ANIMALIA,CHORDATA,AVES,ANSERIFORMES,ANATIDAE,Mergus,octosetaceus,,,,,"Vieillot, 1817",
+22696628,Podiceps gallardoi,ANIMALIA,CHORDATA,AVES,PODICIPEDIFORMES,PODICIPEDIDAE,Podiceps,gallardoi,,,,,"Rumboll, 1974",
+22693452,Calidris pygmaea,ANIMALIA,CHORDATA,AVES,CHARADRIIFORMES,SCOLOPACIDAE,Calidris,pygmaea,,,,,"(Linnaeus, 1758)",<em>Calidris pygmaea</em> (del Hoyo and Collar 2014) was previously placed in the genus <em>Eurynorhynchus </em>as <em>E. pygmeus</em>.
+22697810,Spheniscus demersus,ANIMALIA,CHORDATA,AVES,SPHENISCIFORMES,SPHENISCIDAE,Spheniscus,demersus,,,,,"(Linnaeus, 1758)",
+22707133,Terpsiphone corvina,ANIMALIA,CHORDATA,AVES,PASSERIFORMES,MONARCHIDAE,Terpsiphone,corvina,,,,,"(Newton, 1867)",
+22687909,Eriocnemis nigrivestis,ANIMALIA,CHORDATA,AVES,CAPRIMULGIFORMES,TROCHILIDAE,Eriocnemis,nigrivestis,,,,,"(Bourcier & Mulsant, 1852)",
+22707178,Pomarea nigra,ANIMALIA,CHORDATA,AVES,PASSERIFORMES,MONARCHIDAE,Pomarea,nigra,,,,,"(Sparrman, 1786)",
+22705080,Lanius newtoni,ANIMALIA,CHORDATA,AVES,PASSERIFORMES,LANIIDAE,Lanius,newtoni,,,,,"Barboza du Bocage, 1891",
+22717428,Alauda razae,ANIMALIA,CHORDATA,AVES,PASSERIFORMES,ALAUDIDAE,Alauda,razae,,,,,"(Alexander, 1898)",
+84543703,Heteromirafra archeri,ANIMALIA,CHORDATA,AVES,PASSERIFORMES,ALAUDIDAE,Heteromirafra,archeri,,,,,"Clarke, 1920","Sister to <em>H. ruddi </em>(Alström <em>et al. </em>2013a). Morphological, vocal and genetic analysis recently demonstrated that form <em>sidamoensis</em>, treated as a species in HBW, belongs in present species, and may not even be subspecifically distinct; a new population in E Ethiopia simultaneously shown also to belong to nominate (Spottiswoode <em>et al.</em> 2013).We follow Donald &amp; Alström (in prep) in treating Liben Lark as monotypic."
+22708740,Turdus helleri,ANIMALIA,CHORDATA,AVES,PASSERIFORMES,TURDIDAE,Turdus,helleri,,,,,"(Mearns, 1913)",
+22721487,Atlapetes pallidiceps,ANIMALIA,CHORDATA,AVES,PASSERIFORMES,PASSERELLIDAE,Atlapetes,pallidiceps,,,,,"(Sharpe, 1900)",
+22723786,Geospiza heliobates,ANIMALIA,CHORDATA,AVES,PASSERIFORMES,THRAUPIDAE,Geospiza,heliobates,,,,,"(Snodgrass & Heller, 1901)","<p><em>Geospiza heliobates </em>(del Hoyo and Collar 2016) was previously placed in the genus <em>Camarhynchus </em>following SACC (2005 &amp; updates); Sibley &amp; Monroe (1990, 1993); Stotz <em>et al</em>. (1996).</p>"
+22720855,Palmeria dolei,ANIMALIA,CHORDATA,AVES,PASSERIFORMES,FRINGILLIDAE,Palmeria,dolei,,,,,"(Wilson, 1891)",
+22702117,Cinclodes palliatus,ANIMALIA,CHORDATA,AVES,PASSERIFORMES,FURNARIIDAE,Cinclodes,palliatus,,,,,"(Tschudi, 1844)",
+22696495,Falco cherrug,ANIMALIA,CHORDATA,AVES,FALCONIFORMES,FALCONIDAE,Falco,cherrug,,,,,"Gray, 1834",
+22695189,Gyps africanus,ANIMALIA,CHORDATA,AVES,ACCIPITRIFORMES,ACCIPITRIDAE,Gyps,africanus,,,,,"Salvadori, 1865",
+22695194,Gyps bengalensis,ANIMALIA,CHORDATA,AVES,ACCIPITRIFORMES,ACCIPITRIDAE,Gyps,bengalensis,,,,,"(Gmelin, 1788)",
+22729731,Gyps indicus,ANIMALIA,CHORDATA,AVES,ACCIPITRIFORMES,ACCIPITRIDAE,Gyps,indicus,,,,,"(Scopoli, 1786)",
+22695254,Sarcogyps calvus,ANIMALIA,CHORDATA,AVES,ACCIPITRIFORMES,ACCIPITRIDAE,Sarcogyps,calvus,,,,,"(Scopoli, 1786)",
+22689055,Bubo scandiacus,ANIMALIA,CHORDATA,AVES,STRIGIFORMES,STRIGIDAE,Bubo,scandiacus,,,,,"(Linnaeus, 1758)",<em>Bubo scandiacus </em>(del Hoyo and Collar 2014) was previously listed as <em>B.</em><em>&#160;scandiaca.</em><p></p>
